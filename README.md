@@ -196,7 +196,7 @@ Two primary dashboards were created to monitor different aspects of the infrastr
 
 **Blackbox Exporter Dashboard** - Displays endpoint availability, HTTP response codes, probe duration, and SSL certificate expiration timings for monitored URLs.
 
-![Grafana Blackbox Dashboard](screenshots/grafana_blackboxDB.png)
+![Grafana Blackbox Dashboard](screenshots/grafana_BlackboxDB.png)
 *HTTP endpoint monitoring and uptime tracking*
 
 ## 🎯 Key Features
